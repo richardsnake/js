@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "prueba de js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardsnake/js.git"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "Richard F. Abanto",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/richardsnake/js/issues"
+  },
+  "homepage": "https://github.com/richardsnake/js#readme"
+}
